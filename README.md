@@ -6,10 +6,14 @@
 
 
 ## Tecnologia Usadas
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  <img alt="Docker" src="https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white"/>	
- <img alt="Go Lang" src="https://img.shields.io/badge/Go Lang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>	
+ <img alt="" src="https://imersao.fullcycle.com.br/statics/img/nestjs.webp"/>	
+ <img alt="" src="https://imersao.fullcycle.com.br/statics/img/ka.webp"/>	
+ <img alt="" src="https://imersao.fullcycle.com.br/statics/img/golang.webp"/>	
+ <img alt="" src="https://imersao.fullcycle.com.br/statics/img/Reactjs.webp"/>	
+ <img alt="" src="https://imersao.fullcycle.com.br/statics/img/githubActions.webp"/>
+ <img alt="" src="https://imersao.fullcycle.com.br/statics/img/Docker.webp"/>
+ <img alt="" src="https://imersao.fullcycle.com.br/statics/img/Kubernetes.webp"/>
+ <img alt="" src="https://imersao.fullcycle.com.br/statics/img/elasticstack.webp"/>
  
 ## Cronograma
 
