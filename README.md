@@ -3,7 +3,7 @@
 <img src="https://events-fullcycle.s3.amazonaws.com/events-fullcycle/static/site/img/logo-fullcycle-2.png" alt="exemplo imagem">
 
 > A Imersão Full Stack && Full Cycle é um evento online e 100% gratuito que vai ajudar na prática programadores a desenvolverem as principais habilidades exigidas pelas empresas no mercado para que eles sejam capazes de trabalhar em projetos de grande porte com total confiança e desenvolvendo do jeito certo.
-
+Participe gratuitamente: https://imersao.fullcycle.com.br/
 
 ## Tecnologia Usadas
  <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__nestjs.png"/>	
