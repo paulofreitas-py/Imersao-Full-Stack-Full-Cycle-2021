@@ -6,6 +6,7 @@
 
 
 ## Tecnologia Usadas
+
  <img alt="" src="https://imersao.fullcycle.com.br/statics/img/nestjs.webp"/>	
  <img alt="" src="https://imersao.fullcycle.com.br/statics/img/ka.webp"/>	
  <img alt="" src="https://imersao.fullcycle.com.br/statics/img/golang.webp"/>	
