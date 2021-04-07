@@ -7,14 +7,14 @@
 
 ## Tecnologia Usadas
 
- <img alt="" src="https://imersao.fullcycle.com.br/statics/img/nestjs.webp"/>	
- <img alt="" src="https://imersao.fullcycle.com.br/statics/img/ka.webp"/>	
- <img alt="" src="https://imersao.fullcycle.com.br/statics/img/golang.webp"/>	
- <img alt="" src="https://imersao.fullcycle.com.br/statics/img/Reactjs.webp"/>	
- <img alt="" src="https://imersao.fullcycle.com.br/statics/img/githubActions.webp"/>
- <img alt="" src="https://imersao.fullcycle.com.br/statics/img/Docker.webp"/>
- <img alt="" src="https://imersao.fullcycle.com.br/statics/img/Kubernetes.webp"/>
- <img alt="" src="https://imersao.fullcycle.com.br/statics/img/elasticstack.webp"/>
+ <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__nestjs.png"/>	
+ <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__ka.png"/>	
+ <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__golang.png"/>	
+ <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/reactjs-1.png"/>	
+ <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/githubactions.png"/>
+ <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/docker.png"/>
+ <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__kubernetes.png"/>
+ <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/elasticstack.png"/>
  
 ## Cronograma
 
