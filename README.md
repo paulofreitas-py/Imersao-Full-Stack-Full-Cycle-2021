@@ -6,10 +6,11 @@
 
 
 ## Tecnologia Usadas
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>	
-
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+  <img alt="Docker" src="https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white"/>	
+ <img alt="Go Lang" src="https://img.shields.io/badge/Go Lang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>	
+ 
 ## Cronograma
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
@@ -23,7 +24,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ## 💻 Projetos
 
 - <a href="#"> Desafio 01 - Webserver com Docker e Golang
-- <a href="#"> Desafio 02
+- <a href="#"> Desafio 02 - Backend e frontend
 - <a href="#"> Desafio 03
 
 
