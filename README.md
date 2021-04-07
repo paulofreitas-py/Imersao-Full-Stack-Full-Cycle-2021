@@ -6,16 +6,15 @@
 
 
 ## Tecnologia Usadas
+ <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__nestjs.png"/>	
+ <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__ka.png"/>	
+ <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__golang.png"/>	
+ <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/reactjs-1.png"/>	
+ <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/githubactions.png"/>
+ <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/docker.png"/>
+ <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__kubernetes.png"/>
+ <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/elasticstack.png"/>
 
- <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__nestjs.png"/>	
- <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__ka.png"/>	
- <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__golang.png"/>	
- <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/reactjs-1.png"/>	
- <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/githubactions.png"/>
- <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/docker.png"/>
- <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__kubernetes.png"/>
- <img alt="" src="https://th3hydr4.files.wordpress.com/2021/04/elasticstack.png"/>
- 
 ## Cronograma
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
