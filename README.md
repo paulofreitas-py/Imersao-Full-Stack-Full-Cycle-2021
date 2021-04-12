@@ -27,9 +27,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 💻 Projetos
 
-- <a href="#"> Desafio 01 - Webserver com Docker e Golang
-- <a href="#"> Desafio 02 - Backend e frontend
-- <a href="#"> Desafio 03 - Deploy no Kubernetes
+- <a href="https://github.com/paulofreitas-py/Imersao-Full-Stack-Full-Cycle-2021/tree/main/Desafio-01"> Desafio 01 - Webserver com Docker e Golang
+- <a href="https://github.com/paulofreitas-py/Imersao-Full-Stack-Full-Cycle-2021/tree/main/Desafio-02"> Desafio 02 - Backend e frontend
+- <a href="https://github.com/paulofreitas-py/Imersao-Full-Stack-Full-Cycle-2021/tree/main/Desafio-03"> Desafio 03 - Deploy no Kubernetes
 
 
 ## 🤝 My
