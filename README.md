@@ -20,16 +20,16 @@ Participe gratuitamente: https://imersao.fullcycle.com.br/
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Nest.js e o Backend orientado a microsserviços
-- [ ] React.js: Tempo real com websockets e geolocalização
-- [ ] Kafka Connect, Elasticsearch e Kibana: Integração e visualização de dados
-- [ ] Kubernetes: Deploy e escalabilidade de aplicações
+- [x] React.js: Tempo real com websockets e geolocalização
+- [x] Kafka Connect, Elasticsearch e Kibana: Integração e visualização de dados
+- [x] Kubernetes: Deploy e escalabilidade de aplicações
 - [ ] Observabilidade ao extremo de microsserviços
 
 ## 💻 Projetos
 
 - <a href="#"> Desafio 01 - Webserver com Docker e Golang
 - <a href="#"> Desafio 02 - Backend e frontend
-- <a href="#"> Desafio 03
+- <a href="#"> Desafio 03 - Deploy no Kubernetes
 
 
 ## 🤝 My
