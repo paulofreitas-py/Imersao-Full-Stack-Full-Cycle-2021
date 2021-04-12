@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+body{
+  height: 100vh;
+  font-family: Helvetica, sans-serif;  
+  font-size: 3em;
+  font-weight: 900;
+  color: darkgoldenrod;
+  background-image: url("../images/background.jpg");
+  background-size: cover;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;  
+}
+
+h1{
+  padding-bottom: .8em;
+  text-shadow: 3px 3px #6b6865
+}
