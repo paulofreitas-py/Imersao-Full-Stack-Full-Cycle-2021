@@ -6,8 +6,8 @@
 Participe gratuitamente: https://imersao.fullcycle.com.br/
 
 ## Tecnologia Usadas
- <img align= src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__nestjs.png"/>	
- <img align= src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__ka.png"/>	
+ <img align="left" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__nestjs.png"/>	
+ <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__ka.png"/>	
  <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/anyconv.com__golang.png"/>	
  <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/reactjs-1.png"/>	
  <img align="center" src="https://th3hydr4.files.wordpress.com/2021/04/githubactions.png"/>
