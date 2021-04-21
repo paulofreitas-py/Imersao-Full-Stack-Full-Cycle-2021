@@ -14,8 +14,7 @@ Participe gratuitamente: https://imersao.fullcycle.com.br/
  <img align="left" src="https://paulofreitasdev.files.wordpress.com/2021/04/docker.png"/>
  <img align="left" src="https://paulofreitasdev.files.wordpress.com/2021/04/anyconv.com__kubernetes.png"/>
  <img align="left" src="https://paulofreitasdev.files.wordpress.com/2021/04/elasticstack.png"/>
-
-
+ 
 ## Cronograma
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
